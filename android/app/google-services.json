@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134884203201",
+    "firebase_url": "https://jeeapp-2a139.firebaseio.com",
+    "project_id": "jeeapp-2a139",
+    "storage_bucket": "jeeapp-2a139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134884203201:android:7c97e4e9573beb76069240",
+        "android_client_info": {
+          "package_name": "com.adarsh_jeeapp.jeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134884203201-fvdj2glv18q4ah87mjscl1nk4pk8fbjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNFOKI84izJOhOaUNsr8FvprGtMh6d6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134884203201-fvdj2glv18q4ah87mjscl1nk4pk8fbjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
