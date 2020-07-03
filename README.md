@@ -1,6 +1,11 @@
 # jeeapp
 
-This is jee prepration app
+An Android app (Flutter APP) that assists students in JEE preparation by providing an excellent question practice and a contest participation experience
+
+PrepJEE allows students to apply subjects/topic tags, accuracy filter also to choose a difficulty level and then keep track of “Todo” and “Solved” marks.
+
+Generates contest submission report consisting of performance analysis and comparative standing with access to contest solutions
+
 
 ![](images/readme.jpg)
 
