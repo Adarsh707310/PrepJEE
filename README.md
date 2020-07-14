@@ -1,4 +1,4 @@
-# jeeapp
+# PrepJEE
 
 An Android app (Flutter APP) that assists students in JEE preparation by providing an excellent question practice and a contest participation experience
 
